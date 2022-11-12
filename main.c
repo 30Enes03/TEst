@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int Max(int Zahl1, int Zahl2)
+int Max(int Zahl1, int Zahl2);
 
 
 
