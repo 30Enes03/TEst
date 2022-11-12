@@ -1,0 +1,3 @@
+C:/Users/ENESp/Desktop/HF Techniker/Min-max/cmake-build-debug/CMakeFiles/Min_max.dir
+C:/Users/ENESp/Desktop/HF Techniker/Min-max/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ENESp/Desktop/HF Techniker/Min-max/cmake-build-debug/CMakeFiles/rebuild_cache.dir
